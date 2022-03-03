@@ -17,7 +17,7 @@
     margin-left: 40px;
     margin-top: 20%;
     border-radius: 50%;
-    background: url('../imagenes/perfil/PERFIL\ 1.png');
+    background: url('../assets/perfil/PERFIL\ 1.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -28,7 +28,7 @@
 	flex-wrap: nowrap;
 	justify-content: space-around;
 	width: 310%;
-	height: 348px;
+	height: 360px;
     overflow: hidden;
     border-radius: 20px;
 
@@ -47,27 +47,30 @@
 
 #img1{
 	border-radius: 20px;
-    background-image: url('../imagenes/1.png');
+    background-image: url('https://res.cloudinary.com/df1dychb3/image/upload/v1646264688/1_koghxz.png');
 	background-size: 100% 348px;
 	background-repeat: no-repeat;
 	background-clip: content-box;
+	box-shadow: 10px 10px 8px #888888;
 }
 
 
 #img2{
-    background-image: url('../imagenes/2.png');
+    background-image: url('https://res.cloudinary.com/df1dychb3/image/upload/v1646264898/2_exgyu0.png');
 	background-size: 100% 348px;
 	background-repeat: no-repeat;
 	background-clip: content-box;
 	border-radius: 20px;
+	box-shadow: 10px 10px 8px #888888;
 }
 
 #img3{
-    background-image: url('../imagenes/3.png');
+    background-image: url('https://res.cloudinary.com/df1dychb3/image/upload/v1646265081/3_nnp192.png');
 	background-size: 100% 348px;
 	background-repeat: no-repeat;
 	background-clip: content-box;
 	border-radius: 20px;
+	box-shadow: 10px 10px 8px #888888;
 }
 	
 

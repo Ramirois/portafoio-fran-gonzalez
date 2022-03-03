@@ -6,7 +6,7 @@
     left: 50%;
     top: 40%;
 
-    background-image: url('../imagenes/5190-1_copia.png');
+    background-image: url('https://res.cloudinary.com/df1dychb3/image/upload/v1646265082/5190-1_copia_qbfisg.png');
     background-size: 600px;
     background-repeat: no-repeat;
 }
@@ -18,7 +18,7 @@
     margin-left: 40px;
     margin-top: 20%;
     border-radius: 50%;
-    background: url('../imagenes/perfil/PERFIL\ 1.png');
+    background: url('../assets/perfil/PERFIL\ 1.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
