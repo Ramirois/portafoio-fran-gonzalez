@@ -1,10 +1,10 @@
-const empresaPrev = document.querySelector('.empresa-prev');
-const empresaNext = document.querySelector('.empresa-next');
+const empresaPrev = document.querySelector('.empresa-anterior');
+const empresaNext = document.querySelector('.empresa-siguiente');
 
 const listaEmpresa =  document.querySelector('.lista-empresa');
 
-const iglesiaPrev = document.querySelector('.iglesia-prev');
-const iglesiaNext = document.querySelector('.iglesia-next');
+const iglesiaPrev = document.querySelector('.iglesia-anterior');
+const iglesiaNext = document.querySelector('.iglesia-siguiente');
 
 const listaIglesia =  document.querySelector('.lista-iglesia');
 
